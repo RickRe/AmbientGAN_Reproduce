@@ -1,7 +1,7 @@
 # AmbientGAN_Reproduce
 This repository provides code to reproduce results from the paper AmbientGAN: Generative models from lossy measurements.
 
-    This repository is a work under COMP6248 Reproducability Challenge. 
+    This repository is a work under COMP6248 Reproducability Challenge project. 
     The code has referred to        
     #https://github.com/AshishBora/ambient-gan 
     and #https://github.com/shinseung428/ambientGAN_TF/blob/master/ambientGAN.py
