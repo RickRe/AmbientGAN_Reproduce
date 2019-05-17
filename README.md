@@ -64,39 +64,39 @@ This repository provides code to reproduce results from the paper AmbientGAN: Ge
     hybrid measurement
     
     Celeb result
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop1.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop1.jpg)
     crop1
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop2.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop2.jpg)
     crop2
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop3.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop3.jpg)
     crop3
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop4.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop4.jpg)
     crop4
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop5.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop5.jpg)
     crop5
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop6.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop6.jpg)
     crop6
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop7.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop7.jpg)
     crop7
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop8.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop8.jpg)
     crop8
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop9.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop9.jpg)
     crop9
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop10.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop10.jpg)
     crop10
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop11.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop11.jpg)
     crop11
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop12.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop12.jpg)
     crop12
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop13.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop13.jpg)
     crop13
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop14.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop14.jpg)
     crop14
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop15.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop15.jpg)
     crop15
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop16.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop16.jpg)
     crop16
-![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/crop17.jpg)
+![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop17.jpg)
     crop17
 
 
