@@ -19,7 +19,7 @@ This repository is a work under COMP6248 Reproducability Challenge. The code has
     Mnist
     CelebA
     
-    Run:
+    Run: train is the main file
     Load the whole folder
     change the data path in ops.py
     run train
