@@ -1,0 +1,5 @@
+Run:
+for Mnist:
+Load the whole folder
+change the data path in ops.py
+run train
