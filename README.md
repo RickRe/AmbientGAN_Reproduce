@@ -104,18 +104,6 @@ This repository provides code to reproduce results from the paper AmbientGAN: Ge
 
     crop10
     
-![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop11.jpg)
-
-    crop11
-    
-![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop12.jpg)
-
-    crop12
-    
-![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop13.jpg)
-
-    crop13
-    
 ![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop14.jpg)
 
     crop14
