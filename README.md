@@ -66,8 +66,10 @@ This repository provides code to reproduce results from the paper AmbientGAN: Ge
     Celeb result
 ![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop1.jpg)
     crop1
+    
 ![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop2.jpg)
     crop2
+    
 ![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop3.jpg)
     crop3
 ![image](https://github.com/RickRe/AmbientGAN_Reproduce/blob/master/images/crop4.jpg)
