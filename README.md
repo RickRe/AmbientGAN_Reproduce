@@ -28,7 +28,6 @@ This repository provides code to reproduce results from the paper AmbientGAN: Ge
     Load the whole folder
     change the data path in ops.py
     run train
-    Mnist result
     
     for celeb color:
     This folder includes codes for section 2.2.2 in the reproducing paper
@@ -58,7 +57,10 @@ This repository provides code to reproduce results from the paper AmbientGAN: Ge
        “self.Y_g = self.X_g”
     3. Run “train.py”
     
+    Mnist result
 ![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/p1.png)
     block pixel probability=0.5
 ![image](https://github.com/chickenshawama/AmbientGAN_COMP6248-Reproducability-Challenge/blob/master/images/p2.png)
     hybrid measurement
+    
+    Celeb result
